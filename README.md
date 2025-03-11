@@ -2,17 +2,11 @@
 
 A simple CRUD application to record and manage dreams.
 
-## Dream Entry Fields
+## App features
 
-- Description: Details about the dream.
+- Users can create an account
 
-- Recurring Dream?: Mark if the dream has occurred multiple times.
-
-- Dream Clarity Level: Rate how clear or vague the dream was.
-
-- Sleep Quality: Record how well you slept that night.
-
-## Features
+- Users can login into their accounts
 
 - Add: Create new dream entries.
 
@@ -22,7 +16,17 @@ A simple CRUD application to record and manage dreams.
 
 - Delete: Remove unwanted entries.
 
-## Technologies Used
+## Dream entry fields of the app
+
+- Description: Details about the dream.
+
+- Recurring Dream?: Mark if the dream has occurred multiple times.
+
+- Dream Clarity Level: Rate how clear or vague the dream was.
+
+- Sleep Quality: Record how well you slept that night.
+
+## Technologies used
 
 - Frontend: React.js with Material UI
 
